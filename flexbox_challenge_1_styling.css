@@ -1,0 +1,165 @@
+.flexcontainer1{
+    display:flex;
+}
+.flexitems1{
+    height:260px;
+    width:420px;
+    border: 2px solid navy;
+    border-radius:12px;
+    align-items: center;
+    font-family:'Varela Round';
+    font-size:26px;
+    margin:3px;
+    font-weight:600;
+    text-align:center;
+}
+#flexitem1{
+    background-color:cyan;
+}
+#flexitem2{
+    background-color: lightsalmon;
+}
+#flexitem3{
+    background-color: lightskyblue;
+}
+.flexcontainer2{
+    display:flex;
+}
+.flexitems2{
+    height:60px;
+    width:320px;
+    border:2px solid navy;
+    border-radius:12px;
+    margin:3px;
+    align-items:center;
+    font-family:'Varela Round';
+    font-size:24px;
+    font-weight:600;
+    text-align:center;
+}
+#first-item{
+    background-color:navajowhite;
+}
+#second-item{
+    background-color: hotpink;
+}
+#third-item{
+    background-color: lawngreen;
+}
+#fourth-item{
+    background-color: mediumorchid;
+}
+.flexcontainer3{
+    display:flex;
+}
+.flexitems3{
+    height:60px;
+    width:320px;
+    border: 2px solid navy;
+    border-radius:12px;
+    margin:3px;
+    align-items:center;
+    font-family:'Varela Round';
+    font-size:24px;
+    font-weight:600;
+    text-align:center;
+}
+#item1{
+    background-color:orange;
+}
+#item2{
+    background-color:slateblue;
+}
+#item3{
+    background-color:springgreen;
+}
+#item4{
+    background-color:tomato;
+}
+#item5{
+    background-color:yellow;
+}
+.subcontainer1{
+    display:flex;
+}
+.subcontaineritems1{
+    height:120px;
+    width:140px;
+    border:2px solid black;
+    font-family:'Varela Round';
+    font-size:20px;
+    border-radius:8px;
+    margin:2px;
+    align-items:center;
+    font-weight:bolder;
+    color:#ffff;
+
+}
+#subitem1{
+    background-color: tomato;
+}
+#subitem2{
+    background-color:yellowgreen;
+
+}
+#subitem3{
+    background-color:violet
+}
+.subcontainer2{
+    display:flex;
+}
+.subcontaineritems2{
+    height:40px;
+    width:100px;
+    border: 2px solid black;
+    border-radius:8px;
+    font-family:'Varela Round';
+    font-size:20px;
+    text-align: center;
+    margin:2px;
+    align-items:center;
+    color:#ffff;
+    font-weight:bolder;
+}
+#sub-item-1{
+    background-color:purple
+}
+#sub-item-2{
+    background: royalblue;
+}
+#sub-item-3{
+    background-color:seagreen;
+}
+#sub-item-4{
+    background-color: midnightblue;
+}
+.subcontainer3{
+    display:flex;
+}
+.subcontaineritems3{
+    height:40px;
+    width:100px;
+    font-family:'Varela Round';
+    font-size:18px;
+    font-weight:bolder;
+    color:#ffff;
+    border:2px solid black;
+    border-radius:8px;
+    margin:2px;
+    text-align:center;
+}
+#firstsub{
+    background-color: navy;
+}
+#secondsub{
+    background-color: olive;
+}
+#thirdsub{
+    background-color: palevioletred;
+}
+#fourthsub{
+    background-color: red;
+}
+#fifthsub{
+    background-color: limegreen;
+}
